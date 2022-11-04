@@ -1,6 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hello 👋, I'm Louis :)</h1>
 <h3 align="center">I'm a pre-matriculated computer engineering student at NUS who's trying to get a head start by learning programming through my own mini projects</h3>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/WpDdahw.gif">
 
 - 🔭 The project I'm currently working on is [a desktop clock widget with extra unique features](https://github.com/louistzx/desktop-widget)
 

@@ -4,7 +4,7 @@
 
 - 🔭 The project I'm currently working on is [a desktop clock widget with extra unique features](https://github.com/louistzx/desktop-widget)
 
-- 📫 How to reach me **louistzx@gmail.com**
+- 📫 Email: **louistzx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
